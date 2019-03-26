@@ -1,0 +1,50 @@
+.navbar {
+  background-color: rgba(213, 143, 242, 0.70);
+  min-height: 10%;
+  border: none;
+}
+
+.logo-img{
+  width: 10%;
+}
+
+p{
+  font-size: 50px;
+  display: inline-block;
+  color: #FFFFFF;
+  margin: 20px;
+}
+
+.redes-sociales{
+  margin-top: 80px;
+display: inline-block;
+float: right;
+}
+
+.btn {
+    font-size: 15px;
+    font-color: #FFFFFF;
+    background-color: #E8CA08;
+    width: 300px;
+    display: inline-block; 
+     
+}
+
+/*.nav menu{
+height: 40px;
+background-color: #F5E47A;
+text-decoration: none;
+list-style: none;
+
+}
+
+.nav ul{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav ul li a{
+  display: inline-block;
+  text-decoration: none;
+}
